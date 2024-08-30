@@ -8,7 +8,7 @@ public class TicketCost {
         System.out.println("Enter number of ticket bought");
         int notickets;
         notickets = sn.nextInt();
-        double totalCost = calculateTicketCost(ticketType, notickets);
+        double totalCost = ctc(tickettype, notickets);
      
         if (totalCost >= 0) {
             System.out.printf("%.1f\n", totalCost);
@@ -17,7 +17,7 @@ public class TicketCost {
         }
     }
 
-     static double calculateTicketCost(String ticketType, int notickets) {
+     static double ctc(String tickettype, int notickets) {
        
         final double REGULAR_PRICE = 50;
         final double VIP_PRICE = 100;
@@ -29,7 +29,7 @@ public class TicketCost {
         double discount = 0;
 
 
-        switch (ticketType) {
+        switch (tickettype) {
             case "Regular":
                 basePrice = REGULAR_PRICE;
                 if (notickets > 10) {
