@@ -31,5 +31,9 @@
 | --- | --- | --- | --- |
 | 1.  | Interface,Method Overloading,Inheritance,Method Overriding,Nested Interface,Accessing Interface Fields,Constructor in Superclass  | Name    | [Name.java](Name.java)  |
 | 2.  | Abstract Classes and Methods,Method Overriding,Static Method,String and StringBuffer,Inheritance  | JavaClass    | [JavaClass.java](JavaClass.java)  |
+| 3.  | Find Missing Number  | MissingNo    | [MissingNo.java](MissingNo.java)  |
+| 4.  | Matrix Program  | Matrix    | [Matrix.java](Matrix.java)  |
+| 5.  | Merge and Sort the Array  | MergeandSort    | [MergeandSort.java](MergeandSort.java)  |
+
 
 
