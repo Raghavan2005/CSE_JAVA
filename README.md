@@ -39,7 +39,7 @@
 # Assginment 1 Programs
 
 
-| S.no   Class Name | File |
+| S.no  | Class Name | File |
 | --- | --- | --- |
 | 1.  | Palindrome    | [Palindrome.java](Palindrome.java)  |
 | 2.  | NoYelling     | [NoYelling.java](NoYelling.java)  |
