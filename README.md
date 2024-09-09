@@ -36,4 +36,19 @@
 | 5.  | Merge and Sort the Array  | MergeandSort    | [MergeandSort.java](MergeandSort.java)  |
 
 
+# Assginment 1 Programs
+
+
+| S.no   Class Name | File |
+| --- | --- | --- |
+| 1.  | Palindrome    | [Palindrome.java](Palindrome.java)  |
+| 2.  | NoYelling     | [NoYelling.java](NoYelling.java)  |
+| 3.  | DataAnalysis    | [DataAnalysis.java](DataAnalysis.java)  |
+| 4.  | DuckandDisarium    | [DuckandDisarium.java](DuckandDisarium.java)  |
+| 5.  | Fibonacci    | [Fibonacci.java](Fibonacci.java)  |
+| 6.  | Shape    | [Shape.java](Shape.java)  |
+| 7.  | BankingApp    | [BankingApp.java](BankingApp.java)  |
+| 8.  | ManuScript    | [ManuScript.java](ManuScript.java)  |
+| 9.  | VRS    | [VRS.java](VRS.java)  |
+| 10.  | BookManagementSystem    | [BookManagementSystem.java](BookManagementSystem.java)  |
 
