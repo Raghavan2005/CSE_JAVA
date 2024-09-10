@@ -28,7 +28,7 @@
 
 
 | S.no  | Experiment Name | Class Name | File |
-| --- | --- | --- | --- |
+| --- | ------ | --- | --- |
 | 1.  | Interface,Method Overloading,Inheritance,Method Overriding,Nested Interface,Accessing Interface Fields,Constructor in Superclass  | Name    | [Name.java](Name.java)  |
 | 2.  | Abstract Classes and Methods,Method Overriding,Static Method,String and StringBuffer,Inheritance  | JavaClass    | [JavaClass.java](JavaClass.java)  |
 | 3.  | Find Missing Number  | MissingNo    | [MissingNo.java](MissingNo.java)  |
@@ -36,7 +36,7 @@
 | 5.  | Merge and Sort the Array  | MergeandSort    | [MergeandSort.java](MergeandSort.java)  |
 | 6.  | Default method in interface  | UseDefault     | [UseDefault.java](UseDefault.java)  |
 | 7.  | Static method in Interface  | Staticmethod    | [Staticmethod.java](Staticmethod.java)  |
-| 8.  | Diamond Problem  |QA- DiamondProblem Solve- DiamondProblemSolution    | [QA-DiamondProblem.java](DiamondProblem.java) [Solve-DiamondProblemSolution.java](DiamondProblemSolution.java)  |
+| 8.  | Diamond Problem  |QA- DiamondProblem <br> Solve- DiamondProblemSolution    | [QA-DiamondProblem.java](DiamondProblem.java) <br> [Solve-DiamondProblemSolution.java](DiamondProblemSolution.java)  |
 | 9.  | Class methods have higher priority than Interface methods  | HigherPriority    | [HigherPriority.java](HigherPriority.java)  |
 
 
