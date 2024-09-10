@@ -37,7 +37,7 @@
 | 6.  | Default method in interface  | UseDefault     | [UseDefault.java](UseDefault.java)  |
 | 7.  | Static method in Interface  | Staticmethod    | [Staticmethod.java](Staticmethod.java)  |
 | 8.  | Diamond Problem  |QA- DiamondProblem Solve- DiamondProblemSolution    | [QA-DiamondProblem.java](DiamondProblem.java) [Solve-DiamondProblemSolution.java](DiamondProblemSolution.java)  |
-| 9.  | Class methods have higher priority than Interface methods  | HigherPriorty    | [HigherPriorty.java](HigherPriorty.java)  |
+| 9.  | Class methods have higher priority than Interface methods  | HigherPriority    | [HigherPriority.java](HigherPriority.java)  |
 
 
 # Assginment 1 Programs
