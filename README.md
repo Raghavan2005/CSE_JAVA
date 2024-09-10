@@ -34,6 +34,10 @@
 | 3.  | Find Missing Number  | MissingNo    | [MissingNo.java](MissingNo.java)  |
 | 4.  | Matrix Program  | Matrix    | [Matrix.java](Matrix.java)  |
 | 5.  | Merge and Sort the Array  | MergeandSort    | [MergeandSort.java](MergeandSort.java)  |
+| 6.  | Default method in interface  | UseDefault     | [UseDefault.java](UseDefault.java)  |
+| 7.  | Static method in Interface  | Staticmethod    | [Staticmethod.java](Staticmethod.java)  |
+| 8.  | Diamond Problem  |QA- DiamondProblem Solve- DiamondProblemSolution    | [QA-DiamondProblem.java](DiamondProblem.java) [Solve-DiamondProblemSolution.java](DiamondProblemSolution.java)  |
+| 9.  | Class methods have higher priority than Interface methods  | HigherPriorty    | [HigherPriorty.java](HigherPriorty.java)  |
 
 
 # Assginment 1 Programs
