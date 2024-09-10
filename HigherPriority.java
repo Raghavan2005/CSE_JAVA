@@ -1,9 +1,9 @@
-class DiamondProblemSolution extends baseclass{
+class HigherPriorty extends baseclass{
  public void print(){
         System.out.println("Hello World Main Class");
     }
     public static void main(String args[]){
-DiamondProblemSolution bc = new DiamondProblemSolution(); 
+HigherPriorty bc = new HigherPriorty(); 
 bc.print();
 
     }
