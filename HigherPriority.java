@@ -1,9 +1,9 @@
-class HigherPriorty extends baseclass{
+class HigherPriority extends baseclass{
  public void print(){
         System.out.println("Hello World Main Class");
     }
     public static void main(String args[]){
-HigherPriorty bc = new HigherPriorty(); 
+HigherPriority bc = new HigherPriority(); 
 bc.print();
 
     }
