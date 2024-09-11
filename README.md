@@ -21,7 +21,8 @@
 | 15. | Count the Occurrence  | Count   | [Count.java](Count.java)  |
 | 16. | Invertory Management  | Profit   | [Profit.java](Profit.java)  |
 | 17. | Sort an arry of 0s,1s,and 2s  | SortZeroArray   | [SortZeroArray.java](SortZeroArray.java)  |
-
+| 18.  | Find the Missing Number  | MissingNo    | [MissingNo.java](MissingNo.java)  |
+| 19.  | Move all Zeroes to the End of the Array  | MoveallZeroes    | [MoveallZeroes.java](MoveallZeroes.java)  |
 
 
 # Activity Programs
