@@ -8,3 +8,6 @@
 |1.c|Conduct an experiment to differentiate Structured , Un-structured and Semistructured data based on data sets given.|[EX_1C.ipynb](EX_1C.ipynb)|
 |1.d|Conduct an experiment to encrypt and decrypt given sensitive data.|[EX_1D.ipynb](EX_1D.ipynb)|
 |2|Upload and Analyze the data set given in csv format and perform data preprocessing and visualization.|[EX_2.ipynb](EX_2.ipynb)|
+|3.a|Conduct an expreiment to show data visualization using line plot.|[EX_3A.ipynb](EX_3A.ipynb)|
+|3.b|Conduct an expreiment to show data visualization using bar chart.|[EX_3B.ipynb](EX_3B.ipynb)|
+|3.c|Conduct an expreiment to show data visualization using pie chart.|[EX_3C.ipynb](EX_3C.ipynb)|
