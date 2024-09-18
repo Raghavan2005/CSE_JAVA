@@ -24,7 +24,8 @@
 | 18.  | Find the Missing Number  | MissingNo    | [MissingNo.java](MissingNo.java)  |
 | 19.  | Move all Zeroes to the End of the Array  | MoveallZeroes    | [MoveallZeroes.java](MoveallZeroes.java)  |
 | 20.  | Roman Numerals  | RomanNumerals    | [RomanNumerals.java](RomanNumerals.java)  |
-| 21.  | Palindrome  | LongestCommonSuffix    | [LongestCommonSuffix.java](LongestCommonSuffix.java)  |
+| 21.  | Palindrome  | PalindromeString    | [PalindromeString.java](PalindromeString.java)  |
+| 22.  | Longest Common Suffix  | LongestCommonSuffix    | [LongestCommonSuffix.java](LongestCommonSuffix.java)  |
 
 
 # Activity Programs
@@ -41,6 +42,7 @@
 | 7.  | Static method in Interface  | Staticmethod    | [Staticmethod.java](Staticmethod.java)  |
 | 8.  | Diamond Problem  |QA- DiamondProblem <br> Solve- DiamondProblemSolution    | [QA-DiamondProblem.java](DiamondProblem.java) <br> [Solve-DiamondProblemSolution.java](DiamondProblemSolution.java)  |
 | 9.  | Class methods have higher priority than Interface methods  | HigherPriority    | [HigherPriority.java](HigherPriority.java)  |
+| 10.  | ExceptionHandling  | ExceptionHandling    | [ExceptionHandling.java](ExceptionHandling.java)  |
 
 
 # Assginment 1 Programs
