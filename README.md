@@ -23,6 +23,8 @@
 | 17. | Sort an arry of 0s,1s,and 2s  | SortZeroArray   | [SortZeroArray.java](SortZeroArray.java)  |
 | 18.  | Find the Missing Number  | MissingNo    | [MissingNo.java](MissingNo.java)  |
 | 19.  | Move all Zeroes to the End of the Array  | MoveallZeroes    | [MoveallZeroes.java](MoveallZeroes.java)  |
+| 20.  | Roman Numerals  | RomanNumerals    | [RomanNumerals.java](RomanNumerals.java)  |
+| 21.  | Palindrome  | LongestCommonSuffix    | [LongestCommonSuffix.java](LongestCommonSuffix.java)  |
 
 
 # Activity Programs
