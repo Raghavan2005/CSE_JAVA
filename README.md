@@ -1,6 +1,7 @@
 # Index
 
-# Lab Report : [230701520-RAGHAVAN S - CS23333-Object Oriented Programming Using Java](230701520-RAGHAVAN S - CS23333-Object Oriented Programming Using Java) 
+# Lab Report : 
+[230701520-RAGHAVAN S - CS23333-Object Oriented Programming Using Java](230701520-RAGHAVAN_S_CS23333-Object_Oriented_Programming_Using_Java.pdf) 
 
 | S.no  | Experiment Name | Class Name | File |
 | --- | --- | --- | --- |
