@@ -3,7 +3,7 @@
 
 | S.no  | Experiment Name | Class Name | File |
 | --- | --- | --- | --- |
-| 1.  | Choosing Datatype for Integers  | Datatype   | [Datatype.java](Datatype.java)  |
+| 1.  | Choosing Datatype for Integers  | Datatype   | [Datatype.java](Programs/Datatype.java)  |
 | 2.  | Financial Application  | FinancialApp    | [FinancialApp.java](FinancialApp.java)  |
 | 3.  | Score Player  | ScorePlayer   | [ScorePlayer.java](ScorePlayer.java)  |
 | 4.  | Payroll System  | PayRoll   | [PayRoll.java](PayRoll.java)  |
